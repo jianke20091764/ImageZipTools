@@ -14,7 +14,7 @@ png|jpg|gif|jpeg|bmp
 （如果需要别的格式，可以改动源码里面的正则表达式）
 
 3.配置config.js ： 
-"`
+````````````````````````````````
 {
 	'data' :['E:/qunar/qietu/bat/image/'],  // 多个文件夹路径作为输入
 	'dir' : 'E:/qunar/qietu/bat/output/', // 输入路径，唯一，保证图片名不一样
@@ -26,7 +26,7 @@ png|jpg|gif|jpeg|bmp
 		'colors' : 256  //色值
 	}
 }
-"`
+```````````````````````````````````````````
 
 
 4.启动shell.bat即可
