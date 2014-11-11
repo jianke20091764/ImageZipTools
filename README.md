@@ -1,9 +1,9 @@
 ImageZipTools
 =============
 
-##	version ： 0.1
-##	Author：2100wxz@163.com
-##	title：图片无损压缩小工具
+* version ： 0.1
+* Author：2100wxz@163.com
+* title：图片无损压缩小工具
 
 
 1.前提安装 ：
